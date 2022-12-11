@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Readme](README.md)
-* [Forms](<README (1).md>)
+* [Forms](<forms/README.md>)
   * [Viewing the Template Form List](forms/viewing-the-template-form-list.md)
   * [Form List Operations](forms/form-list-operations.md)
   * [Form Designer](forms/form-designer.md)
