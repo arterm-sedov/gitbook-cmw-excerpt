@@ -1,6 +1,6 @@
 # Readme
 
-Low-code BPM platform help excerpt.
+A low-code BPM platform help excerpt.
 
 This repository contains a demo excerpt from the help system originally developed with MkDocs.
 
