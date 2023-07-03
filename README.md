@@ -6,4 +6,4 @@ This repository contains a demo excerpt from the help system originally develope
 
 The content was imported from a static HTML site generated with MkDocs.
 
-View the book here: [https://arterm-sedov.gitbook.io/help-sample/]
+View the book here: [https://arterm-sedov.gitbook.io/help-sample/](https://arterm-sedov.gitbook.io/help-sample/)
