@@ -91,9 +91,8 @@ You can place the following elements on the form.
 
 1. In the element pane, hover over the **Buttons** heading.
 2. Click the **Add button** button that appears.
-3. The button creation page appears.
-
-See [Creating a Button](form-designer.md#creating-a-button).
+3. The [button designer](../buttons/button-designer.md) appears.
+4. Configure and save the button.
 
 <figure><img src="../.gitbook/assets/form_designer_create_button" alt="Creating a button in the form designer"><figcaption><p>Creating a button in the form designer</p></figcaption></figure>
 
@@ -112,4 +111,4 @@ See [Creating a Button](form-designer.md#creating-a-button).
 
 [**Creating a Form**](creating-a-form.md)
 
-****[**Creating a Button**](form-designer.md#creating-a-button)****
+[**Button Designer**](../buttons/button-designer.md)
