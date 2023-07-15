@@ -8,11 +8,11 @@
 2. Check the checkbox in the first column for the button to be removed.
 3. Click **Delete**.
 
-<figure><img src="../.gitbook/assets/button_delete_button" alt="Selecting a button to delete"><figcaption><p>Selecting a button to delete</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/button_delete_button (1)" alt="Selecting a button to delete"><figcaption><p>Selecting a button to delete</p></figcaption></figure>
 
 1. In the delete confirmation window, click **Delete**.
 
-<figure><img src="../.gitbook/assets/button_delete_confirmation" alt="Confirming button deletion"><figcaption><p>Confirming button deletion</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/button_delete_confirmation (1)" alt="Confirming button deletion"><figcaption><p>Confirming button deletion</p></figcaption></figure>
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 

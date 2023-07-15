@@ -4,8 +4,8 @@ The [form list](viewing-the-template-form-list.md) provides the following operat
 
 * **Select** — check a box in the first column to select a form.
 * **Open** — double-click a form row to open the [form designer](form-designer.md).
-* **Create** — [create](creating-a-form.md) new form.
-* **Delete** — [delete](deleting-a-form.md) a form (the button is displayed when one form is selected).
+* **Create** — [create](creating-a-form.md)[ new form](creating-a-form.md).
+* **Delete** — [delete](deleting-a-form.md)[ a form](deleting-a-form.md) (the button is displayed when one form is selected).
 * **Default** — click this button set the selected form as default for viewing the template records (the button is displayed when one form is selected).
 * **Search** — click this button and enter keywords in the **Search** field. The rows containing the keywords will be shown.
 
@@ -15,6 +15,6 @@ The [form list](viewing-the-template-form-list.md) provides the following operat
 
 [**Creating a Form**](creating-a-form.md)
 
-[**Form Designer**](form-designer.md)
+[**Configuring a Form**](form-designer.md)
 
-[**Deleting a form**](deleting-a-form.md)
+[**Deleting a Form**](deleting-a-form.md)

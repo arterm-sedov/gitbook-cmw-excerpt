@@ -1,9 +1,7 @@
 # Readme
 
-A low-code BPM platform help excerpt.
+This is a demo exerpt from a low-code BPMS platform help.
 
-This repository contains a demo excerpt from the help system originally developed with MkDocs.
+The excerpt is imported from MkDocs.
 
-The content was imported from a static HTML site generated with MkDocs.
-
-View the book here: [https://arterm-sedov.gitbook.io/help-sample/](https://arterm-sedov.gitbook.io/help-sample/)
+GitBook link: [https://arterm-sedov.gitbook.io/help-sample/](https://arterm-sedov.gitbook.io/help-sample/)

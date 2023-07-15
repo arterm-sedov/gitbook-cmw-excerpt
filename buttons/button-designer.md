@@ -1,24 +1,22 @@
-# Button Designer
+# Configuring a Button
 
-Use the button designer to configure the appearance, behavior, and result of clicking the button.
+Use the button designer to configure the button appearance, behavior, and operation.
 
 ### Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
 1. Open the template [button list](broken-reference).
 2. Double-click a button row.
 3. The button designer will be displayed.
-4. Edit the button.
+4. Configure the button.
 5. Click **Save**.
 
-![Button designer — Properties tab](<../.gitbook/assets/button\_designer (1)>)
+![Button designer — Properties tab](../.gitbook/assets/button\_designer)
 
 Button designer — Properties tab
 
-### Configuring a Button <a href="#configuring-a-button" id="configuring-a-button"></a>
+### Button Designer Tabs <a href="#configuring-a-button" id="configuring-a-button"></a>
 
-The button designer has the following tabs to configure display options and the button click operation.
-
-Configure the button and click **Save**.
+The button designer has the following tabs to configure button display options and operation.
 
 #### Properties <a href="#properties" id="properties"></a>
 
@@ -57,9 +55,11 @@ On the **Properties** tab, configure the general button parameters.
   * **Trigger the “Button clicked” event** — the button click will trigger the **Button clicked** event, for example, to run a script in the application.
   * **Edit** — configure the process diagram.
 
-Note
 
+
+{% hint style="info" %}
 Operations are executed on **records** in the **record**, **account**, **role**, and **organizational unit** **templates**, as well as on the **process instances** in the **process templates**.
+{% endhint %}
 
 * **Save the record after execution** — check this checkbox to save the current record upon the button click operation execution.
 * **Skip validation** — if you check this checkbox, data validation won't be performed when entering and saving record data and validation errors won't be displayed.
@@ -85,7 +85,7 @@ Operations are executed on **records** in the **record**, **account**, **role**,
 * **Show the dialog** — if you check this checkbox, clicking the button will open the operation confirmation dialogue you configure.
   * **Configure the dialog** — go to the operation confirmation form designer. The element panel in this designer shows the operation **local variables** that you can drag and drop on the dialogue.
 
-![Operation dialogue designer with a local variable](<../.gitbook/assets/button\_designer\_dialogue\_designer (1)>)
+![Operation dialogue designer with a local variable](../.gitbook/assets/button\_designer\_dialogue\_designer)
 
 Operation dialogue designer with a local variable
 
@@ -95,7 +95,7 @@ On the **Script** tab, you can enter a C# script to execute on the button click.
 
 To generate a C# script template, click **Generate C# template**.
 
-![Button designer — Script tab with a C# script template](../.gitbook/assets/button\_designer\_script)
+![Button designer — Script tab with a C# script template](<../.gitbook/assets/button\_designer\_script (1)>)
 
 Button designer — Script tab with a C# script template
 
@@ -103,7 +103,7 @@ Button designer — Script tab with a C# script template
 
 On the **Display condition** tab, you can configure a formula or N3 expression. The button will be displayed if the formula or N3 expression returns `true`. Otherwise, the button will be hidden.
 
-![Button Designer — Display condition tab with a formula](../.gitbook/assets/button\_designer\_display\_condition)
+![Button Designer — Display condition tab with a formula](<../.gitbook/assets/button\_designer\_display\_condition (1)>)
 
 Button Designer — Display condition tab with a formula
 
@@ -123,7 +123,7 @@ For each variable, you can set:
 * **Template** — can be set for the following variable types: **Record**, **Account**, **Role**, and **Organizational Unitattribute\_organizational\_unit.md**.
 * **Store multiple values** — you can check this checkbox for the following variable types: **File** (see attribute types **Document**, **Image**), **Record**, **Account**, **Role**, and **Organizational Unit**.
 
-![Button Designer - Local Variables Tab](<../.gitbook/assets/button\_designer\_local\_variables (1)>)
+![Button Designer - Local Variables Tab](../.gitbook/assets/button\_designer\_local\_variables)
 
 Button Designer - Local Variables Tab
 
@@ -131,7 +131,7 @@ Button Designer - Local Variables Tab
 
 The **Relations** tab displays the list of all application objects and resources associated with the button.
 
-![Button designer — Relations tab](<../.gitbook/assets/button\_designer\_relations (1)>)
+![Button designer — Relations tab](../.gitbook/assets/button\_designer\_relations)
 
 Button designer — Relations tab
 

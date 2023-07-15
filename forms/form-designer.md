@@ -1,4 +1,4 @@
-# Form Designer
+# Configuring a Form
 
 Use the form designer to configure the form layout, properties, and elements.
 
@@ -111,4 +111,4 @@ You can place the following elements on the form.
 
 [**Creating a Form**](creating-a-form.md)
 
-[**Button Designer**](../buttons/button-designer.md)
+[**Configuring a Buton**](../buttons/button-designer.md)

@@ -14,6 +14,6 @@ A form is a web page designed to enter and display data. You can place fields as
 
 [**Creating a Form**](forms/creating-a-form.md)
 
-[**Form Designer**](forms/form-designer.md)
+[**Configuring a Form**](form-designer.md)
 
 [**Deleting a Form**](forms/deleting-a-form.md)
