@@ -12,15 +12,13 @@ Use the button designer to configure the button appearance, behavior, and operat
 
 ![Button designer — Properties tab](../.gitbook/assets/button\_designer)
 
-Button designer — Properties tab
-
 ### Button Designer Tabs <a href="#configuring-a-button" id="configuring-a-button"></a>
 
 The button designer has the following tabs to configure button display options and operation.
 
 #### Properties <a href="#properties" id="properties"></a>
 
-On the **Properties** tab, configure the general button parameters.
+On the **Properties** tab, configure the general button settings.
 
 * **Display name** — the button label. After placing the button within a button area (on a form or a table), you can change its display name on that button area, this change will not affect the name of the original button in the template.
 * **System name** - a unique button name for use in scripts, expressions, and scenarios.
@@ -87,8 +85,6 @@ Operations are executed on **records** in the **record**, **account**, **role**,
 
 ![Operation dialogue designer with a local variable](../.gitbook/assets/button\_designer\_dialogue\_designer)
 
-Operation dialogue designer with a local variable
-
 #### Script <a href="#script" id="script"></a>
 
 On the **Script** tab, you can enter a C# script to execute on the button click.
@@ -97,15 +93,11 @@ To generate a C# script template, click **Generate C# template**.
 
 ![Button designer — Script tab with a C# script template](<../.gitbook/assets/button\_designer\_script (1)>)
 
-Button designer — Script tab with a C# script template
-
 #### Display Condition <a href="#display-condition" id="display-condition"></a>
 
 On the **Display condition** tab, you can configure a formula or N3 expression. The button will be displayed if the formula or N3 expression returns `true`. Otherwise, the button will be hidden.
 
 ![Button Designer — Display condition tab with a formula](<../.gitbook/assets/button\_designer\_display\_condition (1)>)
-
-Button Designer — Display condition tab with a formula
 
 #### Local Variables <a href="#local-variables" id="local-variables"></a>
 
@@ -125,15 +117,11 @@ For each variable, you can set:
 
 ![Button Designer - Local Variables Tab](../.gitbook/assets/button\_designer\_local\_variables)
 
-Button Designer - Local Variables Tab
-
 #### Relations <a href="#relations" id="relations"></a>
 
 The **Relations** tab displays the list of all application objects and resources associated with the button.
 
 ![Button designer — Relations tab](../.gitbook/assets/button\_designer\_relations)
-
-Button designer — Relations tab
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 

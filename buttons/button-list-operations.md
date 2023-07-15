@@ -14,6 +14,6 @@ The [button list](button-list-operations.md) provides the following operations a
 
 [**Creating a Button**](creating-a-button.md)
 
-[**Button Designer**](button-designer.md)
+[**Configuring a Button**](button-designer.md)
 
 [**Deleting a Button**](deleting-a-button.md)

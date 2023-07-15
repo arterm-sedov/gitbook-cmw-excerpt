@@ -11,4 +11,4 @@
 
 [**Viewing the Template Button List**](viewing-the-template-button-list.md)
 
-[**Button Designer**](button-designer.md)
+[**Configuring a Button**](button-designer.md)
