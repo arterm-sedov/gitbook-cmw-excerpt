@@ -2,7 +2,7 @@
 
 1. Open the template button list.
 2. Click **Create**.
-3. The button designer will be displayed.
+3. The [button designer](button-designer.md) opens.
 4. Configure and save the button.
 
 <figure><img src="../.gitbook/assets/2023-07-16_00h23_53.png" alt="Creating a button from the button list"><figcaption><p>Creating a button from the button list</p></figcaption></figure>

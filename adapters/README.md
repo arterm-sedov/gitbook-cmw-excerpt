@@ -1,6 +1,6 @@
 # Adapters
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Definition**
 
 An adapter is a module (compiled as a DLL) that provides custom connection and communication route to integrate the **Platform** with external systems
@@ -16,8 +16,8 @@ Loaded modules are compiled on the server side, and corresponding connections be
 
 [**Adapter List Operations**](viewing-the-adapter-list.md)
 
-****[**Creating an Adapter**](creating-an-adapter.md)****
+[**Creating an Adapter**](creating-an-adapter.md)
 
-****[**Configuring an Adapter**](configuring-an-adapter.md)****
+[**Configuring an Adapter**](configuring-an-adapter.md)
 
-****[**Deleting an Adapter**](deleting-an-adapter.md)****
+[**Deleting an Adapter**](deleting-an-adapter.md)

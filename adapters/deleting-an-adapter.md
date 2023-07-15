@@ -9,7 +9,7 @@ Connections and communication routes generated for the deleted adapter will be d
 3. Click **Delete**.
 4. In the confirmation window, click **Delete**.
 
-<figure><img src="../.gitbook/assets/adapter_delete_confirmation" alt="Adapter delete confirmation"><figcaption><p>Adapter delete confirmation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-07-16_00h54_54.png" alt="Adapter delete confirmation"><figcaption><p>Adapter delete confirmation</p></figcaption></figure>
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 

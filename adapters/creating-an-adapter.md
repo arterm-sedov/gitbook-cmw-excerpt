@@ -23,9 +23,9 @@
     <figure><img src="../.gitbook/assets/adapter_execution_log" alt="Adapter execution log example"><figcaption><p>Adapter execution log example</p></figcaption></figure>
 10. The connection item for the compiled adapter will be displayed in the **Custom connections** submenu when creating a connection or communication route.
 
-<figure><img src="../.gitbook/assets/adapter_custom_connection_create_menu" alt="Creating a connection using a custom adapter"><figcaption><p>Creating a connection using a custom adapter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-07-16_00h52_56.png" alt="Creating a connection using a custom adapter"><figcaption><p>Creating a connection using a custom adapter</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/adapters_custom_communication_route_create_menu" alt="Creating a communication route using a custom adapter"><figcaption><p>Creating a communication route using a custom adapter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-07-16_00h53_39.png" alt="Creating a communication route using a custom adapter"><figcaption><p>Creating a communication route using a custom adapter</p></figcaption></figure>
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 

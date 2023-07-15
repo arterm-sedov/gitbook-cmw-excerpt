@@ -1,9 +1,9 @@
 # Forms
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Definition**
 
-A form is a web page designed to enter and display data. You can place fields associated with attributes, static text, and various visual elements on the form.
+A form is a web page designed to enter and display data. You can place fields (associated with attributes), static text, and visual elements on the form.
 {% endhint %}
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
