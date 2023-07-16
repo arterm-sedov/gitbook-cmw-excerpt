@@ -10,11 +10,11 @@ GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https:
 
 ## Task&#x20;
 
-From scratch, create docs-as-code context- and locale-aware help for low-code business application platform integrated into version control and CI/CD workflows
+From the ground up, create docs-as-code context- and locale-aware help for a low-code business application platform. Integrate help authoring with knowledgebase, version control and CI/CD workflows.
 
 ## Input
 
-Testbed and real-world business apps powered by the CMW Business Application Platform, platform source code
+I was provided with the testbed and real-world business apps powered by the CMW Business Application Platform, and platform source code.
 
 ## Process
 
