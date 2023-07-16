@@ -24,13 +24,13 @@ Use the form designer to configure the form layout, properties, and elements.
    * **Save** — save the form.
    * **Clear** — remove all elements from the form layout.
    * **Clone** — create a form duplicate.
-   * **Configure template** — go to the template **Properties** page.
-   * **Relations** — view a list of application objects that use the form.
+   * **Configure template** <i class="fa-light fa-gear"></i> — go to the template **Properties** page.
+   * **Relations** <i class="fa-brands fa-connectdevelop"></i> — view a list of application objects that use the form.
 
 ### Form Properties <a href="#form-properties" id="form-properties"></a>
 
 1. **Display name** — the form name that will be displayed in its header when viewing template records.
-2. **System name** — a unique form name, for use scripts, expressions, and scenarios.
+2. **System name** — a unique form name, for use in scripts, expressions, and scenarios.
 3. **Is default** — check this box to display this form by default when viewing template records.
 4. **Type**:
    * **Public** — select this type for the form to be viewed using the form selection dropdown next to the form title.
