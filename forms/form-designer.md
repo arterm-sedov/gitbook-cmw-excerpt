@@ -24,8 +24,8 @@ Use the form designer to configure the form layout, properties, and elements.
    * **Save** — save the form.
    * **Clear** — remove all elements from the form layout.
    * **Clone** — create a form duplicate.
-   * **Configure template** <i class="fa-light fa-gear"></i> — go to the template **Properties** page.
-   * **Relations** <i class="fa-brands fa-connectdevelop"></i> — view a list of application objects that use the form.
+   * **Configure template** <img src="../.gitbook/assets/image.png" alt="" data-size="line"> — go to the template **Properties** page.
+   * **Relations** <img src="../.gitbook/assets/2023-07-16_16h51_08.png" alt="" data-size="line"> — view a list of application objects that use the form.
 
 ### Form Properties <a href="#form-properties" id="form-properties"></a>
 
@@ -103,7 +103,7 @@ You can place the following elements on the form.
 3. Click **Save**.
 4. The new form opens in the form designer.
 
-<figure><img src="../.gitbook/assets/form_designer_clone_form" alt="Form cloning"><figcaption><p>Form cloning</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-07-16_16h52_06.png" alt="Form cloning"><figcaption><p>Form cloning</p></figcaption></figure>
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
@@ -111,4 +111,4 @@ You can place the following elements on the form.
 
 [**Creating a Form**](creating-a-form.md)
 
-[**Configuring a Buton**](../buttons/button-designer.md)
+[**Configuring a Button**](../buttons/button-designer.md)
