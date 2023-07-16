@@ -6,7 +6,7 @@
 An adapter is a module (compiled as a DLL) that provides custom connection and communication route to integrate the **Platform** with external systems
 {% endhint %}
 
-Use the **Adapters** section to load and compile custom connection modules.
+Use the **Adapters** page to load and compile custom connection modules.
 
 Loaded modules are compiled on the server side, and corresponding connections become available when creating connections and communication routes.
 
