@@ -33,8 +33,8 @@ I was provided with the testbed and real-world business apps powered by the CMW 
 
 60k+ words and 1k+ screenshots MkDocs help system, a help context resolver and a cross-platform build agent that support multiple languages and adhere to the host platform context and theme.
 
-<figure><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04bf24154918333.634afd8559911.png" alt=""><figcaption><p>Python help build script</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2023-07-16_17h10_47 (1).png" alt=""><figcaption><p>Python help build script</p></figcaption></figure>
 
-<figure><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35f712154918333.634afd8558ccf.png" alt=""><figcaption><p>Help context and language JavaScript resolver</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2023-07-16_17h13_50.png" alt=""><figcaption><p>Help context and language JavaScript resolver</p></figcaption></figure>
 
-<figure><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4172d4154918333.63a34f08cc151.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2023-07-16_17h15_03.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
