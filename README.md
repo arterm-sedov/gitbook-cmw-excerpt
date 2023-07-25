@@ -4,7 +4,7 @@ This is a demo exerpt from a low-code BPMS platform help.
 
 The excerpt is imported from MkDocs.
 
-GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/](https://arterm-sedov.gitbook.io/help-sample/)
+GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/forms/](forms/)
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
@@ -24,7 +24,7 @@ I was provided with the testbed and real-world business apps powered by the CMW 
 4. Among the requirements were context and awareness of the help system: when the user taps the Help button, they should see an article relevant to the platform page they're viewing and in the current platform language. To implement this functionality, I coded a JavaScript help path resolver that uses the platform's module and localization services to determine the path to the help page in the required language.
 5. When the help framework was ready for authoring, I developed Python, JavaScript, and shell scripts to integrate the MkDocs build steps into our product build pipeline for Windows and Linux.
 6. As the product has different branding for different markets, the help content is brand-agnostic and parametrized (including brand names, CSS, fonts, icons, and colors): all branded items are configured in YML files.
-7. The help system also inherits the CSS styles of the host platform, so it looks in line with the themes our customers develop for their apps powered by the CMW platform.&#x20;
+7. The help system also inherits the CSS styles of the host platform, so it looks in line with the themes our customers develop for their apps powered by the CMW platform.
 8. We use VS Code and Git to author, review, and approve the help content.
 9. I've created scripts to parse and import articles from the MkDocs help to the PHPKB-powered knowledge base.
 
@@ -37,3 +37,5 @@ I was provided with the testbed and real-world business apps powered by the CMW 
 <figure><img src=".gitbook/assets/2023-07-16_17h13_50.png" alt=""><figcaption><p>Help context and language JavaScript resolver</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/2023-07-16_17h15_03.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Resulting help article</p></figcaption></figure>
