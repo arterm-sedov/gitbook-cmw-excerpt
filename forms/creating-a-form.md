@@ -13,4 +13,3 @@
 
 [**Configuring a Form**](form-designer.md)
 
-[**Form List Operations**](broken-reference)

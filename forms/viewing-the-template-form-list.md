@@ -16,4 +16,4 @@ In the process template, the form list is not available, and the forms are creat
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Form List Operations**](broken-reference)
+[**Using the Form List**](form-list-operations.md)

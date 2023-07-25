@@ -10,4 +10,4 @@ The list of buttons is provided for all template types.
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Button List Operations**](button-list-operations.md)
+[**Using the Button List**](button-list-operations.md)

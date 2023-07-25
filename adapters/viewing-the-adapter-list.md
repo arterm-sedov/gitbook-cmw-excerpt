@@ -9,5 +9,5 @@
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Adapter List Operations**](viewing-the-adapter-list.md)
+[**Using the** ](viewing-the-adapter-list.md)[**Adapter** ](viewing-the-adapter-list.md)[**List**](viewing-the-adapter-list.md)
 
