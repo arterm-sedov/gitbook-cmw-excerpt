@@ -8,7 +8,7 @@ GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/](https://arterm
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
-## Task&#x20;
+## Task
 
 From the ground up, create docs-as-code context- and locale-aware help for a low-code business application platform. Integrate help authoring with knowledgebase, version control and CI/CD workflows.
 
@@ -18,8 +18,7 @@ I was provided with the testbed and real-world business apps powered by the CMW 
 
 ## Process
 
-1. I've explored the platform codebase to determine which documentation framework would be suitable and maintainable in the long term for our product.\
-
+1. I've explored the platform codebase to determine which documentation framework would be suitable and maintainable in the long term for our product.
 2. After consulting with the developers, system analysts, content creators, and product owner, I've suggested suitable single source docs-as-code frameworks that would fit all or most requirements.
 3. We've opted for MkDocs paired with the well-supported Material for MkDocs theme for its simplicity, wide adoption, and expandability.
 4. Among the requirements were context and awareness of the help system: when the user taps the Help button, they should see an article relevant to the platform page they're viewing and in the current platform language. To implement this functionality, I coded a JavaScript help path resolver that uses the platform's module and localization services to determine the path to the help page in the required language.
