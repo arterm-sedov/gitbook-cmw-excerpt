@@ -1,4 +1,4 @@
-# Readme
+# Sample Description
 
 This is a demo excerpt from the CMW Lab's low-code BPM platform help.
 
@@ -38,6 +38,4 @@ The company provided me with real-world business apps powered by the CMW Platfor
 
 <figure><img src=".gitbook/assets/2023-07-16_17h15_03.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Resulting MkDocs help article</p></figcaption></figure>
-
-Tap **Forms** below to view the imported MkDocs excerpts in GitBook.
+View an excerpt from the resulting help [here](forms/).&#x20;
