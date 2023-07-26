@@ -67,7 +67,7 @@ You can place the following elements on the form.
 
 <figure><img src="../.gitbook/assets/form_designer_goto_form_rules" alt="Form rules designer jump menu"><figcaption><p>Form rules designer jump menu</p></figcaption></figure>
 
-### Element Pane Operations <a href="#element-pane-operations" id="element-pane-operations"></a>
+### Using the Element Panel <a href="#element-pane-operations" id="element-pane-operations"></a>
 
 #### Creating an Attribute <a href="#creating-an-attribute" id="creating-an-attribute"></a>
 

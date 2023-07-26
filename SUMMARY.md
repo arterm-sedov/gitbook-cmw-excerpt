@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Readme](README.md)
+* [Sample Description](README.md)
 * [Forms](forms/README.md)
   * [Viewing the Template Form List](forms/viewing-the-template-form-list.md)
   * [Using the Form List](forms/form-list-operations.md)
