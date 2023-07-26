@@ -1,6 +1,6 @@
 # Readme
 
-This is a demo excerpt from a low-code BPMS platform help.
+This is a demo excerpt from the CMW Lab's low-code BPM platform help.
 
 The excerpt is imported from MkDocs.
 
