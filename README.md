@@ -8,15 +8,15 @@ GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/forms/](forms/)
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
-## Task
+### Task
 
 From the ground up, create a docs-as-code context- and locale-aware help system for a low-code business application platform (the CMW Platform). Integrate help authoring with the knowledge base, version control, and CI/CD workflows.
 
-## Input
+### Input
 
 The company provided me with real-world business apps powered by the CMW Platform and platform source code to research.
 
-## Process
+### Process
 
 1. I've explored the platform codebase to determine which documentation framework would be suitable and maintainable in the long term for our product. Candidates were: Antora, Sphinx, MkDocs, Jekyll, DITA + Oxygen, and Adobe RoboHelp.
 2. After consulting with the product owner, developers, system analysts, and content creators, I suggested the finalists — docs-as-code frameworks that would fit all or most requirements including the potential for single source documentation — Antora and MkDocs.
@@ -28,7 +28,7 @@ The company provided me with real-world business apps powered by the CMW Platfor
 8. We use VS Code and Git to author, review, and approve the help content.
 9. I developed Python scripts to parse and import articles from the MkDocs help into the PHPKB-powered knowledge base.
 
-## Result
+### Result
 
 60k+ words and 1k+ screenshots MkDocs help system integrated with the knowledge base, a help context resolver, and a cross-platform build agent that support multiple languages and adhere to the host platform context and theme.
 
