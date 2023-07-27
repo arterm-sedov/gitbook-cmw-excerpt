@@ -1,6 +1,6 @@
 # Creating a Button
 
-1. Open the template button list.
+1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
 2. Click **Create**.
 3. The [button designer](button-designer.md) opens.
 4. Configure and save the button.
@@ -9,6 +9,6 @@
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Button List**](viewing-the-template-button-list.md)
+[**Viewing the Template Button List**](button-list-operations.md#viewing-the-template-button-list)
 
 [**Configuring a Button**](button-designer.md)

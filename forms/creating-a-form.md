@@ -1,6 +1,6 @@
 # Creating a Form
 
-1. Open the template [form list](viewing-the-template-form-list.md).
+1. Open the template [form list](form-list-operations.md#viewing-the-template-form-list).
 2. Click **Create**.
 3. The [form designer](form-designer.md) opens.
 4. Configure and save the form.
@@ -9,7 +9,7 @@
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Form List**](viewing-the-template-form-list.md)
+[**Viewing the Template Form List**](form-list-operations.md#viewing-the-template-form-list)
 
 [**Configuring a Form**](form-designer.md)
 

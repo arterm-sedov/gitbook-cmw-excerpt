@@ -4,7 +4,7 @@ Use the form designer to configure the form layout, properties, and elements.
 
 ### Opening the Form Designer <a href="#opening-the-form-designer" id="opening-the-form-designer"></a>
 
-1. Open the template [form list](viewing-the-template-form-list.md).
+1. Open the template [form list](form-list-operations.md#viewing-the-template-form-list).
 2. Double-click a form row.
 3. The form designer appears.
 4. Configure the form.
@@ -13,11 +13,7 @@ Use the form designer to configure the form layout, properties, and elements.
 
 ### Form Designer Elements <a href="#form-designer-elements" id="form-designer-elements"></a>
 
-1. Element panel — a palette of elements to drag onto the form: attributes and visual elements. See [Element Panel Operations](form-designer.md#element-pane-operations). Use this panel to:
-   * Drag and drop elements on the form layout.
-   * Search for elements.
-   * Filter element list by element type.
-   * Create and edit attributes, buttons, and forms.
+1. Elements panel — a palette of elements to drag onto the form: attributes and visual elements. See [Using the Elements Panel](form-designer.md#element-pane-operations).
 2. Form layout sets the form's visual appearance.
 3. Properties panel — view and configure the properties of the selected element.
 4. Buttons:
@@ -67,11 +63,18 @@ You can place the following elements on the form.
 
 <figure><img src="../.gitbook/assets/form_designer_goto_form_rules" alt="Form rules designer jump menu"><figcaption><p>Form rules designer jump menu</p></figcaption></figure>
 
-### Using the Element Panel <a href="#element-pane-operations" id="element-pane-operations"></a>
+### Using the Elements Panel <a href="#element-pane-operations" id="element-pane-operations"></a>
+
+Use the elements panel to:
+
+* Drag and drop elements on the form layout.
+* Search for elements.
+* Filter element list by element type.
+* Create and edit attributes, buttons, and forms.
 
 #### Creating an Attribute <a href="#creating-an-attribute" id="creating-an-attribute"></a>
 
-1. In the element pane:
+1. In the elements panel:
    * Hover over the **Attributes** heading to create an attribute in the current template, or…
    * Hover over the template name in the element list to create an attribute in the corresponding template.
 2. Click the **Add Attribute** button that appears.
@@ -89,7 +92,7 @@ You can place the following elements on the form.
 
 #### Creating a Button <a href="#creating-a-button" id="creating-a-button"></a>
 
-1. In the element pane, hover over the **Buttons** heading.
+1. In the elements panel, hover over the **Buttons** heading.
 2. Click the **Add button** button that appears.
 3. The [button designer](../buttons/button-designer.md) appears.
 4. Configure and save the button.
@@ -107,7 +110,7 @@ You can place the following elements on the form.
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Form List**](viewing-the-template-form-list.md)
+[**Viewing the Template Form List**](form-list-operations.md#viewing-the-template-form-list)
 
 [**Creating a Form**](creating-a-form.md)
 

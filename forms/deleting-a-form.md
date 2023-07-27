@@ -1,6 +1,6 @@
 # Deleting a Form
 
-1. Open the template [form list](viewing-the-template-form-list.md).
+1. Open the template [form list](broken-reference).
 2. Check the box in the first column for the form to be deleted.
 3.  Click **Delete**.
 
@@ -11,5 +11,5 @@
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Form List**](broken-reference)
+[**Viewing the Template Form List**](form-list-operations.md#viewing-the-template-form-list)
 

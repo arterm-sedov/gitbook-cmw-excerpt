@@ -1,6 +1,6 @@
 # Deleting a Button
 
-1. Open the template [button list](broken-reference).
+1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
 2. Check the checkbox in the first column for the button to be removed.
 3.  Click **Delete**.
 
@@ -13,4 +13,4 @@
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Button List**](viewing-the-template-button-list.md)
+[**Viewing the Template Button List**](button-list-operations.md#viewing-the-template-button-list)

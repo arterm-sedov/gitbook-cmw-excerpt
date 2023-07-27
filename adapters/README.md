@@ -12,9 +12,7 @@ Loaded modules are compiled on the server side, and corresponding connections be
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Adapter List**](viewing-the-adapter-list.md)
-
-[**Adapter List Operations**](viewing-the-adapter-list.md)
+[**Using the Adapter List**](adapter-list-operations.md)
 
 [**Creating an Adapter**](creating-an-adapter.md)
 

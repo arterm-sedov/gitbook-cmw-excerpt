@@ -4,7 +4,7 @@ Use the button designer to configure the button appearance, behavior, and operat
 
 ### Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
-1. Open the template [button list](broken-reference).
+1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
 2. Double-click a button row.
 3. The button designer will be displayed.
 4. Configure the button.
@@ -125,6 +125,6 @@ The **Relations** tab displays the list of all application objects and resources
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Template Button List**](viewing-the-template-button-list.md)
+[**Viewing the Template Button List**](button-list-operations.md#viewing-the-template-button-list)
 
 [**Creating a Button**](creating-a-button.md)
