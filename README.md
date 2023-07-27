@@ -23,8 +23,8 @@ The company provided me with real-world business apps powered by the CMW Platfor
 3. We've opted for MkDocs paired with the well-supported Material for MkDocs theme for its simplicity, wide adoption, and expandability.
 4. Among the requirements were context and locale awareness of the help system: when the user taps Help, they should see an article relevant to the platform screen they're viewing and in the current platform language. To implement this behavior, I've developed a JavaScript help context resolver that uses the platform's module and localization services to determine the path to the relevant help page in the user's language.
 5. When the help framework was ready for authoring, I developed Python, npm (JavaScript), and shell scripts to integrate the MkDocs build steps into our product build pipeline for Windows and Linux.
-6. The product has different branding for different markets, so the help content is brand-agnostic and parametrized (including brand names, CSS, fonts, icons, and colors). Branded items are configured in YML files.
-7. The help system also inherits the CSS styles of the host platform, so the help site looks in line with the themes our customers develop for their apps powered by the CMW Platform.
+6. The product has different branding for different markets, so I added variables to make the help content brand-agnostic and parametrized (including brand names, CSS, fonts, icons, and colors). Branded items are configured in YML files.
+7. I implemented CSS inheritance from the host platform to the help system, so the help site looks in line with the themes our customers develop for their apps powered by the CMW Platform.
 8. We use VS Code and Git to author, review, and approve the help content.
 9. I developed Python scripts to parse and import articles from the MkDocs help into the PHPKB-powered knowledge base.
 
@@ -38,4 +38,4 @@ The company provided me with real-world business apps powered by the CMW Platfor
 
 <figure><img src=".gitbook/assets/2023-07-16_17h15_03.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
 
-View an excerpt from the resulting help [here](forms/).&#x20;
+View an excerpt from the resulting help [here](forms/).
