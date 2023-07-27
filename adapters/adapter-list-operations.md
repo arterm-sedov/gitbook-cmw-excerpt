@@ -21,8 +21,6 @@ The [adapter list](adapter-list-operations.md#viewing-the-adapter-list) provides
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
-[**Viewing the Adapter List**](broken-reference)
-
 [**Creating an Adapter**](creating-an-adapter.md)
 
 [**Configuring an Adapter**](configuring-an-adapter.md)
