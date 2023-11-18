@@ -5,7 +5,7 @@ Use the form designer to configure the form layout, properties, and elements.
 ### Opening the Form Designer <a href="#opening-the-form-designer" id="opening-the-form-designer"></a>
 
 1. Open the template [form list](form-list-operations.md#viewing-the-template-form-list).
-2. Double-click a form row.
+2. [Create](creating-a-form.md) or open a form by double-clicking it.
 3. The form designer appears.
 4. Configure the form.
 
@@ -85,7 +85,7 @@ Use the elements panel to:
 #### Editing an Attribute, Button, or Form <a href="#editing-an-attribute-button-or-form" id="editing-an-attribute-button-or-form"></a>
 
 1. Hover the mouse pointer over an attribute, button, or form name in the elements panel.
-2. Click **Edit Attribute**, **Edit Button**, or **Edit Form** button that appears.
+2. Click the **Edit Attribute**, **Edit Button**, or **Edit Form** button that appears.
 3. The attribute properties window, the button designer, or the form designer appears.
 
 <figure><img src="../.gitbook/assets/form_designer_edit_form" alt="Editing a form using the form designer"><figcaption><p>Editing a form using the form designer</p></figcaption></figure>

@@ -5,8 +5,8 @@ Use the button designer to configure the button appearance, behavior, and operat
 ### Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
 1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
-2. Double-click a button row.
-3. The button designer will be displayed.
+2. [Create](creating-a-button.md) or open a button by double-clicking it.
+3. The button designer appears.
 4. Configure the button.
 5. Click **Save**.
 
@@ -53,25 +53,23 @@ On the **Properties** tab, configure the general button settings.
   * **Trigger the “Button clicked” event** — the button click will trigger the **Button clicked** event, for example, to run a script in the application.
   * **Edit** — configure the process diagram.
 
-
-
 {% hint style="info" %}
-Operations are executed on **records** in the **record**, **account**, **role**, and **organizational unit** **templates**, as well as on the **process instances** in the **process templates**.
+Operations are executed on **records** in the **record**, **account**, **role**, and **organizational unit** **templates**, as well as on **process instances** in the **process templates**.
 {% endhint %}
 
 * **Save the record after execution** — check this checkbox to save the current record upon the button click operation execution.
 * **Skip validation** — if you check this checkbox, data validation won't be performed when entering and saving record data and validation errors won't be displayed.
 * **Operation result** — select an action to perform upon the operation execution.
   * **Refresh data** — reload the record data.
-  * **Navigation** — go to the object specified in the **Navigate to** field:
+  * **Navigation** — go to an object specified in the **Navigate to** field:
     * **Related record** — go to a record linked with the process instance.
-    * **Process instance** — go to the process instance.
+    * **Process instance** — go to a process instance.
     * **Started process task** — go to the current task of the process instance.
-    * **Next task in list** — go to the next task of the process instance.
+    * **Next task in the list** — go to the next task of the process instance.
     * **Previous page** — go to the current table previous page.
     * **Diagram** — go to the process instance diagram.
     * **Table** — go to a table listing template records or process instances.
-  * **Download document** generated using an export template.
+  * **Download document** — save the file generated using an export template.
 * **Set form access mode**
   * **Read** — on the button click the form will become read-only.
   * **Edit** — after clicking the button the user will be able to enter data into the form (subject to the appropriate permissions).

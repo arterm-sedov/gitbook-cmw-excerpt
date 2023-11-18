@@ -3,12 +3,10 @@
 {% hint style="success" %}
 **Definition**
 
-An adapter is a module (compiled as a DLL) that provides custom connection and communication route to integrate the **Platform** with external systems
+An adapter is a module (compiled as a DLL) that provides a custom connection with its communication route to integrate the **CMW Platform** with external systems.
+
+Loaded modules are compiled on the server side, and corresponding connections become available when creating connections and communication routes. You can then use the adapter communication routes in your application to exchange data with external systems.
 {% endhint %}
-
-Use the **Adapters** page to load and compile custom connection modules.
-
-Loaded modules are compiled on the server side, and corresponding connections become available when creating connections and communication routes.
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>
 
