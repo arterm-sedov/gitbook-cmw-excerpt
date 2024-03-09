@@ -2,7 +2,7 @@
 
 Use the button designer to configure the button appearance, behavior, and operation.
 
-### Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
+## Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
 1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
 2. [Create](creating-a-button.md) or open a button by double-clicking it.
@@ -12,11 +12,11 @@ Use the button designer to configure the button appearance, behavior, and operat
 
 ![Button designer — Properties tab](../.gitbook/assets/button\_designer)
 
-### Button Designer Tabs <a href="#configuring-a-button" id="configuring-a-button"></a>
+## Button Designer Tabs <a href="#configuring-a-button" id="configuring-a-button"></a>
 
 The button designer has the following tabs to configure button display options and operation.
 
-#### Properties <a href="#properties" id="properties"></a>
+### Properties <a href="#properties" id="properties"></a>
 
 On the **Properties** tab, configure the general button settings.
 
@@ -83,7 +83,7 @@ Operations are executed on **records** in the **record**, **account**, **role**,
 
 ![Operation dialogue designer with a local variable](../.gitbook/assets/button\_designer\_dialogue\_designer)
 
-#### Script <a href="#script" id="script"></a>
+### Script <a href="#script" id="script"></a>
 
 On the **Script** tab, you can enter a C# script to execute on the button click.
 
@@ -91,13 +91,13 @@ To generate a C# script template, click **Generate C# template**.
 
 ![Button designer — Script tab with a C# script template](<../.gitbook/assets/button\_designer\_script (1)>)
 
-#### Display Condition <a href="#display-condition" id="display-condition"></a>
+### Display Condition <a href="#display-condition" id="display-condition"></a>
 
 On the **Display condition** tab, you can configure a formula or N3 expression. The button will be displayed if the formula or N3 expression returns `true`. Otherwise, the button will be hidden.
 
 ![Button Designer — Display condition tab with a formula](<../.gitbook/assets/button\_designer\_display\_condition (1)>)
 
-#### Local Variables <a href="#local-variables" id="local-variables"></a>
+### Local Variables <a href="#local-variables" id="local-variables"></a>
 
 On the **Local variables** tab, you can create variables to use in a C# script or scenario executed on the button click.
 
@@ -115,13 +115,13 @@ For each variable, you can set:
 
 ![Button Designer - Local Variables Tab](../.gitbook/assets/button\_designer\_local\_variables)
 
-#### Relations <a href="#relations" id="relations"></a>
+### Relations <a href="#relations" id="relations"></a>
 
 The **Relations** tab displays the list of all application objects and resources associated with the button.
 
 ![Button designer — Relations tab](../.gitbook/assets/button\_designer\_relations)
 
-### Related Articles <a href="#related-articles" id="related-articles"></a>
+## Related Articles <a href="#related-articles" id="related-articles"></a>
 
 [**Viewing the Template Button List**](button-list-operations.md#viewing-the-template-button-list)
 
