@@ -4,7 +4,7 @@ This is a demo excerpt from the CMW Lab's low-code BPM platform help.
 
 The excerpt is imported from MkDocs.
 
-GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/forms/](https://arterm-sedov.gitbook.io/help-sample/forms/)
+GitBook view link: [https://arterm-sedov.gitbook.io/help-sample/forms/](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
