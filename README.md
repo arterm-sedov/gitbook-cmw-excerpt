@@ -38,4 +38,4 @@ The company provided me with real-world business apps powered by the CMW Platfor
 
 <figure><img src=".gitbook/assets/2023-07-16_17h15_03.png" alt=""><figcaption><p>Help article markdown source</p></figcaption></figure>
 
-View an excerpt from the resulting help [here](forms/).
+View an excerpt from the resulting help [here](forms.md).

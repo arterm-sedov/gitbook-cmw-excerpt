@@ -3,7 +3,7 @@
 {% hint style="success" %}
 **Definition**
 
-A button is an [element on a form](../forms/form-designer.md#form-elements) or in a table that performs a configured action on a click.
+A button is an [element on a form](broken-reference) or in a table that performs a configured action on a click.
 {% endhint %}
 
 ### Related Articles <a href="#related-articles" id="related-articles"></a>

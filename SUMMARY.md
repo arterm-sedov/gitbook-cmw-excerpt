@@ -1,11 +1,7 @@
 # Table of contents
 
 * [Sample Description](README.md)
-* [Forms](forms/README.md)
-  * [Using the Form List](forms/form-list-operations.md)
-  * [Creating a Form](forms/creating-a-form.md)
-  * [Configuring a Form](forms/form-designer.md)
-  * [Deleting a Form](forms/deleting-a-form.md)
+* [Forms](forms.md)
 * [Buttons](buttons/README.md)
   * [Using the Button List](buttons/button-list-operations.md)
   * [Creating a Button](buttons/creating-a-button.md)
