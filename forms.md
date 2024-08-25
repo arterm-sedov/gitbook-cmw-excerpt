@@ -107,7 +107,7 @@ Use the elements panel to:
 
 1. In the elements panel, hover over the **Buttons** heading.
 2. Click the **Add button** button that appears.
-3. The [button designer](broken-reference) appears.
+3. The [button designer](buttons.md#opening-the-button-designer) appears.
 4. Configure and save the button.
 
 <figure><img src=".gitbook/assets/form_designer_create_button" alt="Creating a button in the form designer"><figcaption><p>Creating a button in the form designer</p></figcaption></figure>
