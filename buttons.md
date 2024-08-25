@@ -1,22 +1,45 @@
-# Configuring a Button
+# Buttons
+
+{% hint style="success" %}
+**Definition**
+
+A button is an element on a [form](forms.md) or in a table that performs a configured action on a click.
+{% endhint %}
+
+### Use the Template's Button List
+
+The list of buttons is provided for all template types.
+
+1. Open a template.
+2. Select the **Buttons** tab.
+3. The list of buttons in the template opens.
+4. You can perform the following operations in the button list:
+   * **Select** — check a box in the first column to select a button.
+   * **Open** — double-click a button row to [configure ](buttons.md#opening-the-button-designer)the existing&#x20;
+   * **Create** — [configure ](buttons.md#opening-the-button-designer)a new button.
+   * **Delete** — selecte a form and click **Delete** to delete the button. Confirm the deletion.
+   * **Search** <img src=".gitbook/assets/image (4).png" alt="" data-size="line">— click this button and enter keywords in the **Search** field. The rows containing the keywords will be shown.
+
+<figure><img src=".gitbook/assets/button_list (1)" alt="Template button list"><figcaption><p>Template button list</p></figcaption></figure>
+
+### Configure the Button <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
 Use the button designer to configure the button appearance, behavior, and operation.
 
-## Opening the Button Designer <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
-
-1. Open the template [button list](button-list-operations.md#viewing-the-template-button-list).
-2. [Create](creating-a-button.md) or open a button by double-clicking it.
+1. Open the template [button list](buttons.md#use-the-templates-button-list).
+2. Click **Create** or double-click a button in the list.
 3. The button designer appears.
-4. Configure the button.
+4. Configure the button display options and operation using  the following tabs:
+   * [**Properties**](buttons.md#properties)
+   * [**Script**](buttons.md#script)
+   * [**Display condition**](buttons.md#display-condition)
+   * [**Local variables**](buttons.md#local-variables)
+   * [**Relations**](buttons.md#relations)
 5. Click **Save**.
 
-![Button designer — Properties tab](../.gitbook/assets/button\_designer)
+![Button designer — Properties tab](.gitbook/assets/button\_designer)
 
-## Button Designer Tabs <a href="#configuring-a-button" id="configuring-a-button"></a>
-
-The button designer has the following tabs to configure button display options and operation.
-
-### Properties <a href="#properties" id="properties"></a>
+### Configure Button Properties <a href="#properties" id="properties"></a>
 
 On the **Properties** tab, configure the general button settings.
 
@@ -81,23 +104,23 @@ Operations are executed on **records** in the **record**, **account**, **role**,
 * **Show the dialog** — if you check this checkbox, clicking the button will open the operation confirmation dialogue you configure.
   * **Configure the dialog** — go to the operation confirmation form designer. The element panel in this designer shows the operation **local variables** that you can drag and drop on the dialogue.
 
-![Operation dialogue designer with a local variable](../.gitbook/assets/button\_designer\_dialogue\_designer)
+![Operation dialogue designer with a local variable](.gitbook/assets/button\_designer\_dialogue\_designer)
 
-### Script <a href="#script" id="script"></a>
+### Configure Button Script <a href="#script" id="script"></a>
 
 On the **Script** tab, you can enter a C# script to execute on the button click.
 
 To generate a C# script template, click **Generate C# template**.
 
-![Button designer — Script tab with a C# script template](<../.gitbook/assets/button\_designer\_script (1)>)
+![Button designer — Script tab with a C# script template](<.gitbook/assets/button\_designer\_script (1)>)
 
-### Display Condition <a href="#display-condition" id="display-condition"></a>
+### Configure Button Display Condition <a href="#display-condition" id="display-condition"></a>
 
 On the **Display condition** tab, you can configure a formula or N3 expression. The button will be displayed if the formula or N3 expression returns `true`. Otherwise, the button will be hidden.
 
-![Button Designer — Display condition tab with a formula](<../.gitbook/assets/button\_designer\_display\_condition (1)>)
+![Button Designer — Display condition tab with a formula](<.gitbook/assets/button\_designer\_display\_condition (1)>)
 
-### Local Variables <a href="#local-variables" id="local-variables"></a>
+### Configure Button Local Variables <a href="#local-variables" id="local-variables"></a>
 
 On the **Local variables** tab, you can create variables to use in a C# script or scenario executed on the button click.
 
@@ -113,16 +136,11 @@ For each variable, you can set:
 * **Template** — can be set for the following variable types: **Record**, **Account**, **Role**, and **Organizational Unitattribute\_organizational\_unit.md**.
 * **Store multiple values** — you can check this checkbox for the following variable types: **File** (see attribute types **Document**, **Image**), **Record**, **Account**, **Role**, and **Organizational Unit**.
 
-![Button Designer - Local Variables Tab](../.gitbook/assets/button\_designer\_local\_variables)
+![Button Designer - Local Variables Tab](.gitbook/assets/button\_designer\_local\_variables)
 
-### Relations <a href="#relations" id="relations"></a>
+### View Button Relations <a href="#relations" id="relations"></a>
 
 The **Relations** tab displays the list of all application objects and resources associated with the button.
 
-![Button designer — Relations tab](../.gitbook/assets/button\_designer\_relations)
+![Button designer — Relations tab](.gitbook/assets/button\_designer\_relations)
 
-## Related Articles <a href="#related-articles" id="related-articles"></a>
-
-[**Viewing the Template Button List**](button-list-operations.md#viewing-the-template-button-list)
-
-[**Creating a Button**](creating-a-button.md)

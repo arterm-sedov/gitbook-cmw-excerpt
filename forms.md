@@ -6,7 +6,7 @@
 A form is a web page designed to enter and display data. You can place fields (associated with attributes), static text, and visual elements on the form.
 {% endhint %}
 
-### View the Template Form List
+### Use the the Template's Form List
 
 The list of forms is provided for the record template, account template, role template, and organizational unit template.
 
@@ -34,7 +34,7 @@ In the process template, the form list is not available, and the forms are creat
 Use the form designer to configure the form layout, properties, and elements.
 
 1. Open the template [form list](forms.md#viewing-the-template-form-list).
-2. Click **Create** or double click a form in the list.
+2. Click **Create** or double-click a form in the list.
 3. The form designer appears with the following items:\
    \
    **(1) Elements panel** — drag the elements from the panel onto the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements. See [Use the Elements Panel](forms.md#element-pane-operations).\
@@ -60,7 +60,7 @@ Use the form designer to configure the form layout, properties, and elements.
 3. To set a form element properties, select it in the layout and configure the properties in the properties panel.
 4. If needed edit or create attributes, buttons, or forms [using the elements panel](forms.md#element-pane-operations).
 5. Click **Save**.
-6. If needed [edit the form rules](forms.md#editing-the-form).
+6. If needed [configure the form rules](forms.md#editing-the-form).
 
 ### Form Elements <a href="#form-elements" id="form-elements"></a>
 
@@ -107,7 +107,7 @@ Use the elements panel to:
 
 1. In the elements panel, hover over the **Buttons** heading.
 2. Click the **Add button** button that appears.
-3. The [button designer](buttons/button-designer.md) appears.
+3. The [button designer](broken-reference) appears.
 4. Configure and save the button.
 
 <figure><img src=".gitbook/assets/form_designer_create_button" alt="Creating a button in the form designer"><figcaption><p>Creating a button in the form designer</p></figcaption></figure>
@@ -121,7 +121,7 @@ Use the elements panel to:
 
 <figure><img src=".gitbook/assets/2023-07-16_16h52_06.png" alt="Form cloning"><figcaption><p>Form cloning</p></figcaption></figure>
 
-### Edit the Form Rules <a href="#editing-the-form-rules" id="editing-the-form-rules"></a>
+### Configure the Form Rules <a href="#editing-the-form-rules" id="editing-the-form-rules"></a>
 
 1. Click the selector button next to the form title in the designer.
 2. Select **Form rules** from the dropdown.

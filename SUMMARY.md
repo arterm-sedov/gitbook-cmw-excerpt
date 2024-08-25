@@ -2,11 +2,7 @@
 
 * [Sample Description](README.md)
 * [Forms](forms.md)
-* [Buttons](buttons/README.md)
-  * [Using the Button List](buttons/button-list-operations.md)
-  * [Creating a Button](buttons/creating-a-button.md)
-  * [Configuring a Button](buttons/button-designer.md)
-  * [Deleting a Button](buttons/deleting-a-button.md)
+* [Buttons](buttons.md)
 * [Adapters](adapters/README.md)
   * [Using the Adapter List](adapters/adapter-list-operations.md)
   * [Creating an Adapter](adapters/creating-an-adapter.md)
