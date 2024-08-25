@@ -13,9 +13,9 @@ The list of buttons is provided for all template types.
 1. Open a template.
 2. Select the **Buttons** tab.
 3. The list of buttons in the template opens.
-4. You can perform the following operations in the button list:
+4. Perform the following operations:
    * **Select** — check a box in the first column to select a button.
-   * **Open** — double-click a button row to [configure ](buttons.md#opening-the-button-designer)the existing&#x20;
+   * **Open** — double-click a button row to [configure ](buttons.md#opening-the-button-designer)the existing button.
    * **Create** — [configure ](buttons.md#opening-the-button-designer)a new button.
    * **Delete** — selecte a form and click **Delete** to delete the button. Confirm the deletion.
    * **Search** <img src=".gitbook/assets/image (4).png" alt="" data-size="line">— click this button and enter keywords in the **Search** field. The rows containing the keywords will be shown.
@@ -26,7 +26,7 @@ The list of buttons is provided for all template types.
 
 Use the button designer to configure the button appearance, behavior, and operation.
 
-1. Open the template [button list](buttons.md#use-the-templates-button-list).
+1. Open the template's [button list](buttons.md#use-the-templates-button-list).
 2. Click **Create** or double-click a button in the list.
 3. The button designer appears.
 4. Configure the button display options and operation using  the following tabs:

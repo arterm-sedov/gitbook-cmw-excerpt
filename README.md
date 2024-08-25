@@ -2,7 +2,9 @@
 
 This is a demo excerpt from the CMW Lab's low-code BPM platform help.
 
-The excerpt is imported from MkDocs.
+The original complete context-aware help is built into the platform.
+
+The excerpt is imported and adapted from MkDocs.
 
 GitBook view link: [https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
 

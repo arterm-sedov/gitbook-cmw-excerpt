@@ -19,7 +19,7 @@ In the process template, the form list is not available, and the forms are creat
 1. Open a record template, account template, role template, or organizational unit template.
 2. Select the **Forms** tab.
 3. The list of forms in the template opens.
-4. You can perform the following operations in the form list:
+4. Perform the following operations:
    * **Select** — check a box in the first column to select a form.
    * **Open** — double-click a form row to [configure ](forms.md#configure-the-form)the existging form.
    * **Create** — [configure ](forms.md#configure-the-form)a new form.
@@ -33,7 +33,7 @@ In the process template, the form list is not available, and the forms are creat
 
 Use the form designer to configure the form layout, properties, and elements.
 
-1. Open the template [form list](forms.md#viewing-the-template-form-list).
+1. Open the template's [form list](forms.md#viewing-the-template-form-list).
 2. Click **Create** or double-click a form in the list.
 3. The form designer appears with the following items:\
    \
