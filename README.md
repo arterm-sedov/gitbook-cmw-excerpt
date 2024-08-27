@@ -4,9 +4,18 @@ This is a demo excerpt from the CMW Lab's low-code BPM platform help.
 
 The original complete context-aware help is built into the platform.
 
-The excerpt is imported and adapted from MkDocs.
+The excerpt is imported and adapted from MkDocs to GitBook.
 
-GitBook view link: [https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
+Articles in this sample:
+
+**[Buttons](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/buttons)**
+
+**[Forms](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/forms)**
+
+**[Adapters](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/adapters)**
+
+
+This article's GitBook view link: [https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
