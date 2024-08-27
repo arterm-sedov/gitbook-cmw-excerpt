@@ -52,7 +52,7 @@ Loaded modules are compiled on the server side, and corresponding connections be
 
 ### View the Adapter Execution Log
 
-After you publish the adapter and use its connection and communication routes, you can download the adaptor execution log from its properties page.
+After you publish the adapter and use its connection and communication routes, you can download the adaptor execution log from its properties pages.
 
 1. Open the [adapter list](adapters.md#use-the-adapter-list).
 2. Open an adapter by double-clicking it.
