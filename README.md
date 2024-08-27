@@ -6,7 +6,7 @@ The original complete context-aware help is built into the platform.
 
 The excerpt is imported and adapted from MkDocs to GitBook.
 
-Articles in this sample:
+View GitBook articles in this sample:
 
 **[Buttons](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/buttons)**
 
@@ -15,7 +15,7 @@ Articles in this sample:
 **[Adapters](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/adapters)**
 
 
-This article's GitBook view link: [https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
+View this article in GitBook: [https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt)
 
 GitHub repository: [https://github.com/arterm-sedov/gitbook-cmw-excerpt/](https://github.com/arterm-sedov/gitbook-cmw-excerpt/)
 
