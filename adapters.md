@@ -10,13 +10,13 @@ Loaded modules are compiled on the server side, and corresponding connections be
 
 ### Use the Adapter List
 
-1. Select **Adapters** on the **Administration** — **Infrastructure** page.
+1. On the **Administration** page, select **Infrastructure** → **Adapters**.
 2. The adapter list opens.
 3. Perform the following operations:
-   * **Select** — check a box in the first column to select an adapter.
-   * **Open** — double-click an adapter row to [configure t](adapters.md#configure-an-adatpter)he existing adapter.
+   * **Select** — select a checkbox in the first column to select an adapter.
+   * **Open** — double-click an adapter row to [configure ](adapters.md#configure-an-adatpter)the existing adapter.
    * **Create** — [configure](adapters.md#configure-an-adatpter) a new adapter.
-   * **Delete** — select an adapter row and click **Delete.** Confirm the deletion.
+   * **Delete** — select an adapter and click **Delete.** Confirm the adapter deletion.
 
 {% hint style="danger" %}
 If you **delete an adapter**, connections and communication routes generated for the adapter will be deactivated and stop working.
@@ -44,7 +44,7 @@ If you **delete an adapter**, connections and communication routes generated for
 5. Click **Save**.
 6. Click **Publish** to compile the adapter.
 7. Upon successful compilation, the adapter name appears in the adapter list and adapter properties.
-8. An item for the compiled adapter appears in the **Create**→**Custom connections** menu on the **Connections** and **Communication routes** page.
+8. An item for the compiled adapter appears in the **Create** — **Custom connections** menu on the **Connections** and **Communication routes** page.
 9. After compilation, view the **compilation log**.
 10. To [use the adapter](adapters.md#use-the-adapter), create a connection and communication routes for it.
 11. If the adapter was used after publishing, download and view the [execution log](adapters.md#viewing-the-adapter-execution-log).

@@ -17,15 +17,15 @@ In the process template, the form list is not available, and the forms are creat
 {% endhint %}
 
 1. Open a record template, account template, role template, or organizational unit template.
-2. Select the **Forms** tab.
+2. Go to the **Forms** tab.
 3. The list of forms in the template opens.
 4. Perform the following operations:
-   * **Select** — check a box in the first column to select a form.
+   * **Select** — select a checkbox in the first column to select a form.
    * **Open** — double-click a form row to [configure ](forms.md#configure-the-form)the existging form.
    * **Create** — [configure ](forms.md#configure-the-form)a new form.
-   * **Delete** — slecect a form and click **Delete** to delete the form. Confirm the deletion.
-   * **Default** — select a form and click this button to set the selected form as default for viewing the template records.
-   * **Search** <img src=".gitbook/assets/image (4).png" alt="" data-size="line">— click this button and enter keywords in the **Search** field. The rows containing the keywords will be shown.
+   * **Delete** — slecect a form and click **Delete**. Confirm the form deletion.
+   * **Set as default** — select a form and click **Default** to set the form as default for viewing the template records.
+   * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will be shown.
 
 <figure><img src=".gitbook/assets/form_list" alt="Template form list"><figcaption><p>Template form list</p></figcaption></figure>
 
@@ -58,7 +58,7 @@ Use the form designer to configure the form layout, properties, and elements.
      * **Internal** — select this type for the form to be displayed only if it is embedded in another form or is set as a record form (eg. for process start, record creation, dialogues).
 2. Drag the [elements](forms.md#form-elements) from the elements panel to the form layout.
 3. To set a form element properties, select it in the layout and configure the properties in the properties panel.
-4. If needed edit or create attributes, buttons, or forms [using the elements panel](forms.md#element-pane-operations).
+4. If needed search, filter, edit or create attributes, buttons, or forms [using the elements panel](forms.md#element-pane-operations).
 5. Click **Save**.
 6. If needed [configure the form rules](forms.md#editing-the-form).
 
@@ -66,15 +66,18 @@ Use the form designer to configure the form layout, properties, and elements.
 
 You can place the following elements on the form from the [elements panel](forms.md#element-pane-operations).
 
-* **Region** — contains all other form elements. You can drag other elements only onto the area. The form must have at least one region. There can be several areas on a form.
+* **Area** — contains all other form elements. Always place other elements in an area. The form must have at least one area. There can be several areas on a form.
 * **Tabs** — arrange form elements on several tabs.
 * **Columns** — arrange elements in several columns.
-* **Static text** — arbitrary text with HTML formatting.
-* **Attribute field** — when you drag an attribute to the form layout, a field associated with the attribute is created. Field properties correspond to the associated attribute type.
-* **Embedded form** — you can drag another form onto the form layout to embed it into the current form.
-* **Button area** — provided for each form and each area. Buttons can be placed only in the button areas.
+* **Static text** — displays arbitrary text with HTML formatting.
+* **Attribute field** — drag an attribute to the form layout to create a field associated with the attribute. Field properties correspond to the associated attribute type.
+* **Embedded form** — drag another form onto the form layout to embed it into the current form.
 * **Button group** — combines buttons into a dropdown.
-* **Button Separator** — visually separates buttons within button areas.
+* **Button separator** — visually separates buttons within button areas.
+
+{% hint style="info" %}
+A **button area** is provided for each form and area. Always place **buttons**, **button groups**, and **button separators** in the button areas and not anywhere elsese on the form.
+{% endhint %}
 
 ### Use the Elements Panel <a href="#element-pane-operations" id="element-pane-operations"></a>
 
