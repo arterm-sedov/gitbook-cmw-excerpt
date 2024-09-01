@@ -16,12 +16,11 @@ Loaded modules are compiled on the server side, and corresponding connections be
    * **Select** — check a box in the first column to select an adapter.
    * **Open** — double-click an adapter row to [configure t](adapters.md#configure-an-adatpter)he existing adapter.
    * **Create** — [configure](adapters.md#configure-an-adatpter) a new adapter.
-   *   **Delete** — select an adapter row and click **Delete.** Confirm the deletion.&#x20;
+   * **Delete** — select an adapter row and click **Delete.** Confirm the deletion.
 
-       {% hint style="danger" %}
-       Connections and communication routes generated for the deleted adapter will be deactivated and stop working.
-       {% endhint %}
-   * **Search** <img src=".gitbook/assets/image (4).png" alt="" data-size="line">— click this button and enter keywords in the **Search** field. The rows containing the keywords will be shown.
+{% hint style="danger" %}
+If you **delete an adapter**, connections and communication routes generated for the adapter will be deactivated and stop working.
+{% endhint %}
 
 <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="Adapter list"><figcaption><p>Adapter list</p></figcaption></figure>
 
@@ -32,7 +31,7 @@ Loaded modules are compiled on the server side, and corresponding connections be
 3.  The adapter properties page opens.
 
     <figure><img src=".gitbook/assets/adapter_properties" alt="Adapter properties page"><figcaption><p>Adapter properties page</p></figcaption></figure>
-4.  Upload a ZIP archive with the adapter source code in the **Adapter source code** field. \
+4.  Upload a ZIP archive with the adapter source code in the **Adapter source code** field.\
     The archive must contain the Visual Studio solution:
 
     * Project with adapter source code.
@@ -73,11 +72,9 @@ An item for the compiled adapter appears in the **Create**→**Custom connection
 
 <figure><img src=".gitbook/assets/2023-07-16_00h53_39.png" alt="Creating a communication route using a custom adapter"><figcaption><p>Creating a communication route using a custom adapter</p></figcaption></figure>
 
-
-
 ### Delete an Adapter
 
-1. Open the [adapter list](broken-reference).
+1. Open the [adapter list](broken-reference/).
 2. Check the box in the first column for the adapter to be deleted.
 3. Click **Delete**.
 4. In the confirmation window, click **Delete**.
