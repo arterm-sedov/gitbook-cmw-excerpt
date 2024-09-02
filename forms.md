@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Forms
 
 {% hint style="success" %}
@@ -61,23 +47,23 @@ Use the form designer to configure the form layout, properties, and elements.
    * **Configure template** <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> — go to the template **Properties** page.
    *   **Relations** <img src=".gitbook/assets/2023-07-16_16h51_08.png" alt="" data-size="line"> — view a list of application objects that use the form.\
 
+   <figure><img src=".gitbook/assets/form_designer" alt="Form designer"><figcaption></figcaption></figure>
 
-       <figure><img src=".gitbook/assets/form_designer" alt="Form designer"><figcaption></figcaption></figure>
-4. To set the form properties, click an empty layout area and configure the properties using the properties pane:
+5. To set the form properties, click an empty layout area and configure the properties using the properties pane:
    * **Display name** — a title displayed in the form header when viewing template records.
    * **System name** — a unique name to identify the form in scripts, expressions, and scenarios.
    * **Is default** — select this checkbox to display the form by default when viewing template records.
    * **Type**:
      * **Public** — select this type for the form to be viewed using the form selection dropdown next to the form title.
      * **Internal** — select this type for the form to be displayed only if it is embedded in another form or is set as a record form (eg. for process start, record creation, dialogues).
-5. Use the elements pane to:
+6. Use the elements pane to:
    * Drag the [elements](forms.md#form-elements) from the elements pane to the form layout.
    * Click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> to search for elements.
    * Click <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> to filter the element list by element type.
    * [Create](forms.md#creating-an-attribute) or [edit](forms.md#editing-an-attribute-button-or-form) attributes, buttons, and forms.
-6. To set a form element properties, select it in the layout and configure the properties in the properties pane.
-7. **Save** the form.
-8. If needed [configure the form rules](forms.md#editing-the-form).
+7. To set a form element properties, select it in the layout and configure the properties in the properties pane.
+8. **Save** the form.
+9. If needed [configure the form rules](forms.md#editing-the-form).
 
 ### Form Elements <a href="#form-elements" id="form-elements"></a>
 
