@@ -8,7 +8,7 @@ A form is a web page designed to enter and display data. You can place fields (a
 
 ## Use the the Template's Form List
 
-The list of forms is provided for the record template, account template, role template, and organizational unit template.
+The list of forms is available for the record template, account template, role template, and organizational unit template.
 
 {% hint style="info" %}
 **Note**
@@ -40,7 +40,7 @@ Use the form designer to configure its layout, properties, and elements.
     **(1) Elements pane** — drag the elements from the pane to the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements [using the elements pane](forms.md#creating-an-attribute).\
     **(2) Form layout** — sets the form appearance.\
     **(3) Properties pane** — view and configure the selected element properties.\
-    **(4) Buttons**
+    **(4) Buttons:**
 
     * **Save** — save the form.
     * **Clear** — remove all elements from the form layout.
