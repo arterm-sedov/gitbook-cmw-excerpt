@@ -8,7 +8,7 @@ An adapter is a module (compiled as a DLL) that provides a custom connection wit
 Loaded modules are compiled on the server side, and corresponding connections become available when creating connections and communication routes. You can then use the adapter communication routes in your application to exchange data with external systems.
 {% endhint %}
 
-### Use the Adapter List
+## Use the Adapter List
 
 1. On the **Administration** page, select **Infrastructure** → **Adapters**.
 2. The adapter list opens.
@@ -24,7 +24,7 @@ If you **delete an adapter**, connections and communication routes generated for
 
 <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="Adapter list"><figcaption><p>Adapter list</p></figcaption></figure>
 
-### Configure an Adatpter
+## Configure an Adatpter
 
 1. Open the [adapter list](adapters.md#use-the-adapter-list).
 2. Click **Create** or double-click an adapter in the list.
@@ -49,7 +49,7 @@ If you **delete an adapter**, connections and communication routes generated for
 10. To [use the adapter](adapters.md#use-the-adapter), create a connection and communication routes for it.
 11. If the adapter was used after publishing, download and view the [execution log](adapters.md#viewing-the-adapter-execution-log).
 
-### View the Adapter Execution Log
+## View the Adapter Execution Log
 
 After you publish the adapter and use its connection and communication routes, you can download the adaptor execution log from its properties pages.
 
@@ -60,7 +60,7 @@ After you publish the adapter and use its connection and communication routes, y
 
     <figure><img src=".gitbook/assets/adapter_execution_log" alt="Adapter execution log example"><figcaption><p>Adapter execution log example</p></figcaption></figure>
 
-### Use the Adapter
+## Use the Adapter
 
 An item for the compiled adapter appears in the **Create** — **Custom connections** menu on the **Connections** and **Communication routes** page.
 
