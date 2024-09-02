@@ -35,35 +35,35 @@ Use the form designer to configure the form layout, properties, and elements.
 
 1. Open the template's [form list](forms.md#viewing-the-template-form-list).
 2. Click **Create** or double-click a form in the list.
-3. The form designer appears with the following items:\
-   \
-   **(1) Elements pane** — drag the elements from the pane onto the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements [using the elements pane](forms.md#element-pane-operations).\
-   **(2) Form layout** — sets the form's visual appearance.\
-   **(3) Properties pane** — view and configure the properties of the selected element.\
-   **(4) Buttons**
-   * **Save** — save the form.
-   * **Clear** — remove all elements from the form layout.
-   * **Clone** — create a form duplicate.
-   * **Configure template** <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> — go to the template **Properties** page.
-   *   **Relations** <img src=".gitbook/assets/2023-07-16_16h51_08.png" alt="" data-size="line"> — view a list of application objects that use the form.\
+3.  The form designer appears with the following items:\
+    \
+    **(1) Elements pane** — drag the elements from the pane onto the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements [using the elements pane](forms.md#element-pane-operations).\
+    **(2) Form layout** — sets the form's visual appearance.\
+    **(3) Properties pane** — view and configure the properties of the selected element.\
+    **(4) Buttons**
 
-   <figure><img src=".gitbook/assets/form_designer" alt="Form designer"><figcaption></figcaption></figure>
+    * **Save** — save the form.
+    * **Clear** — remove all elements from the form layout.
+    * **Clone** — create a form duplicate.
+    * **Configure template** <img src=".gitbook/assets/image (5).png" alt="" data-size="line"> — go to the template **Properties** page.
+    * **Relations** <img src=".gitbook/assets/2023-07-16_16h51_08.png" alt="" data-size="line"> — view a list of application objects that use the form.
 
-5. To set the form properties, click an empty layout area and configure the properties using the properties pane:
+    <figure><img src=".gitbook/assets/form_designer" alt="Form designer"><figcaption></figcaption></figure>
+4. To set the form properties, click an empty layout area and configure the properties using the properties pane:
    * **Display name** — a title displayed in the form header when viewing template records.
    * **System name** — a unique name to identify the form in scripts, expressions, and scenarios.
    * **Is default** — select this checkbox to display the form by default when viewing template records.
    * **Type**:
      * **Public** — select this type for the form to be viewed using the form selection dropdown next to the form title.
      * **Internal** — select this type for the form to be displayed only if it is embedded in another form or is set as a record form (eg. for process start, record creation, dialogues).
-6. Use the elements pane to:
+5. Use the elements pane to:
    * Drag the [elements](forms.md#form-elements) from the elements pane to the form layout.
    * Click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> to search for elements.
    * Click <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> to filter the element list by element type.
    * [Create](forms.md#creating-an-attribute) or [edit](forms.md#editing-an-attribute-button-or-form) attributes, buttons, and forms.
-7. To set a form element properties, select it in the layout and configure the properties in the properties pane.
-8. **Save** the form.
-9. If needed [configure the form rules](forms.md#editing-the-form).
+6. To set a form element properties, select it in the layout and configure the properties in the properties pane.
+7. **Save** the form.
+8. If needed [configure the form rules](forms.md#editing-the-form).
 
 ### Form Elements <a href="#form-elements" id="form-elements"></a>
 
@@ -84,7 +84,7 @@ A **button area** is provided for each form and area. Always place **buttons**, 
 
 ### Configure an Attribute, Button, or Embedded Form using the Elements Pane <a href="#creating-an-attribute" id="creating-an-attribute"></a>
 
-#### Create an Attribute  <a href="#creating-an-attribute" id="creating-an-attribute"></a>
+#### Create an Attribute <a href="#creating-an-attribute" id="creating-an-attribute"></a>
 
 1. In the elements pane:
    * To create an attribute in the current template, hover over the **Attributes** heading , or…
