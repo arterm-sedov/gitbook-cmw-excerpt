@@ -18,13 +18,13 @@ The list of buttons is provided for all template types.
    * **Open** — double-click a button row to [configure ](buttons.md#opening-the-button-designer)the existing button.
    * **Create** — [configure ](buttons.md#opening-the-button-designer)a new button.
    * **Delete** — select a button and click **Delete**. Confirm the button deletion.
-   * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will be shown.
+   * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will appear.
 
 <figure><img src=".gitbook/assets/button_list (1)" alt="Template button list"><figcaption><p>Template button list</p></figcaption></figure>
 
 ## Configure the Button <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
-Use the button designer to configure the button's appearance, behavior, and operation.
+Use the button designer to configure its appearance, behavior, and operation.
 
 1. Open the template's [button list](buttons.md#use-the-templates-button-list).
 2. Click **Create** or double-click a button in the list.
@@ -44,7 +44,7 @@ Use the button designer to configure the button's appearance, behavior, and oper
 On the **Properties** tab, configure the general button settings.
 
 * **Display name** — a label for the button. After placing the button within a button area (on a form or a table), you can change its display name on that button area, this change will not affect the name of the original button in the template.
-* **System name** — a unique name to identify the button in scripts, expressions, and scenarios.
+* **System name** — a unique name used to identify the button in scripts, expressions, and scenarios.
 * **Description** — a relevant description of the button's purpose.
 * **Operation context** — defines the available operations, the operation execution context, and the ability to use the button on the corresponding forms and tables.
   * **Record** in a record template, account template, role template, or organizational unit template.

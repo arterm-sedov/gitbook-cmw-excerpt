@@ -23,23 +23,23 @@ In the process template, the form list is not available, and the forms are creat
    * **Select** — to choose a form, select a checkbox in the first column.
    * **Open** — double-click a form row to [configure ](forms.md#configure-the-form)the existing form.
    * **Create** — [configure ](forms.md#configure-the-form)a new form.
-   * **Delete** — sleect a form and click **Delete**. Confirm the form deletion.
+   * **Delete** — select a form and click **Delete**. Confirm the form deletion.
    * **Set as default** — select a form and click **Default** to set the form as default for viewing the template records.
-   * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will be shown.
+   * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will appear.
 
 <figure><img src=".gitbook/assets/form_list" alt="Template form list"><figcaption><p>Template form list</p></figcaption></figure>
 
 ## Configure the Form
 
-Use the form designer to configure the form's layout, properties, and elements.
+Use the form designer to configure its layout, properties, and elements.
 
 1. Open the template's [form list](forms.md#viewing-the-template-form-list).
 2. Click **Create** or double-click a form in the list.
 3.  The form designer appears with the following items:\
     \
-    **(1) Elements pane** — drag the elements from the pane onto the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements [using the elements pane](forms.md#element-pane-operations).\
-    **(2) Form layout** — sets the form's visual appearance.\
-    **(3) Properties pane** — view and configure the properties of the selected element.\
+    **(1) Elements pane** — drag the elements from the pane to the form: attributes, buttons, embedded forms, and visual elements. You can also edit and create elements [using the elements pane](forms.md#creating-an-attribute).\
+    **(2) Form layout** — sets the form appearance.\
+    **(3) Properties pane** — view and configure the selected element properties.\
     **(4) Buttons**
 
     * **Save** — save the form.
@@ -51,11 +51,11 @@ Use the form designer to configure the form's layout, properties, and elements.
     <figure><img src=".gitbook/assets/form_designer" alt="Form designer"><figcaption></figcaption></figure>
 4. To set the form properties, click an empty layout area and configure the properties using the properties pane:
    * **Display name** — a title that appears in the form heading when viewing template records.
-   * **System name** — a unique name to identify the form in scripts, expressions, and scenarios.
+   * **System name** — a unique name used to identify the form in scripts, expressions, and scenarios.
    * **Is default** — select this checkbox to display the form by default when viewing template records.
    * **Type**:
-     * **Public** — select this type for the form to be viewed using the form selection dropdown next to the form title.
-     * **Internal** — select this type for the form to be displayed only if it is embedded in another form or is set as a record form (eg. for process start, record creation, dialogues).
+     * **Public** — select this type to make the form accessible for viewing from the form selection dropdown next to the form title.
+     * **Internal** — select this type to make the form visible only if it is embedded in another form, set as a record form, or opened via a direct URL (e.g., for process start, record creation, or dialogues).
 5. Use the elements pane to:
    * Drag the [elements](forms.md#form-elements) from the elements pane to the form layout.
    * Click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> to search for elements.
@@ -63,11 +63,11 @@ Use the form designer to configure the form's layout, properties, and elements.
    * [Create](forms.md#creating-an-attribute) or [edit](forms.md#editing-an-attribute-button-or-form) attributes, buttons, and forms.
 6. To set a form element properties, select it in the layout and configure the properties in the properties pane.
 7. **Save** the form.
-8. If needed [configure the form rules](forms.md#editing-the-form).
+8. If needed, [configure the form rules](forms.md#editing-the-form).
 
 ### Form Elements <a href="#form-elements" id="form-elements"></a>
 
-You can place the following elements on the form from the [elements pane](forms.md#configure-the-form).
+You can place the following elements on the form from the [elements pane](forms.md#configure-the-form):
 
 * **Area** — contains all other form elements. Place any elements in an area. The form must have at least one area. There can be several areas on a form.
 * **Tabs** — arrange form elements on several tabs.
@@ -79,7 +79,7 @@ You can place the following elements on the form from the [elements pane](forms.
 * **Button separator** — visually separates buttons within button areas.
 
 {% hint style="info" %}
-A **button area** is provided for each form and area. Always place **buttons**, **button groups**, and **button separators** in the button areas and not anywhere else on the form.
+A **button area** is provided for each form and area. Place any **buttons**, **button groups**, or **button separators** in the button areas and not anywhere else on the form.
 {% endhint %}
 
 ### Configure an Attribute, Button, or Embedded Form using the Elements Pane <a href="#creating-an-attribute" id="creating-an-attribute"></a>
