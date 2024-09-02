@@ -24,7 +24,7 @@ In the process template, the form list is not available, and the forms are creat
    * **Open** — double-click a form row to [configure ](forms.md#configure-the-form)the existing form.
    * **Create** — [configure ](forms.md#configure-the-form)a new form.
    * **Delete** — select a form and click **Delete**. Confirm the form deletion.
-   * **Set as default** — select a form and click **Default** to set the form as default for viewing the template records.
+   * **Set as default** — select a form and click **Default** to display the form by default when opening template records.
    * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will appear.
 
 <figure><img src=".gitbook/assets/form_list" alt="Template form list"><figcaption><p>Template form list</p></figcaption></figure>
@@ -52,7 +52,7 @@ Use the form designer to configure its layout, properties, and elements.
 4. To set the form properties, click an empty layout area and configure the properties using the properties pane:
    * **Display name** — a title that appears in the form heading when viewing template records.
    * **System name** — a unique name used to identify the form in scripts, expressions, and scenarios.
-   * **Is default** — select this checkbox to display the form by default when viewing template records.
+   * **Is default** — select this checkbox to display the form by default when opening template records.
    * **Type**:
      * **Public** — select this type to make the form accessible for viewing from the form selection dropdown next to the form title.
      * **Internal** — select this type to make the form visible only if it is embedded in another form, set as a record form, or opened via a direct URL (e.g., for process start, record creation, or dialogues).
