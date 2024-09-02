@@ -13,10 +13,9 @@ Loaded modules are compiled on the server side, and corresponding connections be
 1. On the **Administration** page, select **Infrastructure** → **Adapters**.
 2. The adapter list opens.
 3. Perform the following operations:
-   * **Select** — to choose an adapter, select a checkbox in the first column.
-   * **Open** — double-click an adapter row to [configure ](adapters.md#configure-an-adatpter)the existing adapter.
-   * **Create** — [configure](adapters.md#configure-an-adatpter) a new adapter.
-   * **Delete** — select an adapter and click **Delete.** Confirm the adapter deletion.
+   * **Open** — double-click an adapter row to [configure ](adapters.md#configure-an-adapter)the existing adapter.
+   * **Create** — [configure](adapters.md#configure-an-adapter) a new adapter.
+   * **Delete** — select a checkbox in the first column for an adapter and click **Delete.** Confirm the adapter deletion.
 
 {% hint style="danger" %}
 If you **delete an adapter**, connections and communication routes generated for the adapter will be deactivated and stop working.
@@ -34,11 +33,11 @@ If you **delete an adapter**, connections and communication routes generated for
 4.  Upload a ZIP archive with the adapter source code in the **Adapter source code** field.\
     The archive must contain the Visual Studio solution:
 
+    * Solution file (.sln) in the archive's root folder.
     * Project with the adapter source code.
-    * Projects containing the interfaces for the development and subsequent compilation of the adapter.
+    * Projects containing the interfaces for the development and compilation of the adapter.
     * Any additional projects needed for the adapter, e.g., a localization project.
-    * Folder with the connected libraries.
-    * A solution file (.sln) in the archive's root folder.
+    * Folder with the necessary libraries.
 
     <figure><img src=".gitbook/assets/adapter_archive_content" alt="Adapter source code archive contents example"><figcaption><p>Adapter source code archive contents example</p></figcaption></figure>
 5. **Save** the adapter.
