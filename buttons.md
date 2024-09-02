@@ -6,7 +6,7 @@
 A button is an element on a [form](forms.md) or in a table that performs a configured action on a click.
 {% endhint %}
 
-### Use the Template's Button List
+## Use the Template's Button List
 
 The list of buttons is provided for all template types.
 
@@ -22,20 +22,20 @@ The list of buttons is provided for all template types.
 
 <figure><img src=".gitbook/assets/button_list (1)" alt="Template button list"><figcaption><p>Template button list</p></figcaption></figure>
 
-### Configure the Button <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
+## Configure the Button <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
 Use the button designer to configure the button appearance, behavior, and operation.
 
 1. Open the template's [button list](buttons.md#use-the-templates-button-list).
 2. Click **Create** or double-click a button in the list.
 3. The button designer appears.
-4. Configure the button display options and operation using  the following tabs:
+4. Configure the button display and operation using the following tabs:
    * [**Properties**](buttons.md#properties)
    * [**Script**](buttons.md#script)
    * [**Display condition**](buttons.md#display-condition)
    * [**Local variables**](buttons.md#local-variables)
    * [**Relations**](buttons.md#relations)
-5. Click **Save**.
+5. **Save** the button.
 
 ![Button designer — Properties tab](.gitbook/assets/button\_designer)
 
@@ -43,17 +43,17 @@ Use the button designer to configure the button appearance, behavior, and operat
 
 On the **Properties** tab, configure the general button settings.
 
-* **Display name** — the button label. After placing the button within a button area (on a form or a table), you can change its display name on that button area, this change will not affect the name of the original button in the template.
-* **System name** - a unique button name for use in scripts, expressions, and scenarios.
+* **Display name** — a label for the button. After placing the button within a button area (on a form or a table), you can change its display name on that button area, this change will not affect the name of the original button in the template.
+* **System name** — a unique name to identify the button in scripts, expressions, and scenarios.
 * **Description** — a relevant description of the button's purpose.
 * **Operation context** — defines the available operations, the operation execution context, and the ability to use the button on the corresponding forms and tables.
-  * **Record** in a **record**, **account**, **role**, or **organizational unit** **template**.
-  * **User task** — an element of the process diagram.
-  * **Process** — **process template** or process instance.
-  * **Account** — a record in an **account template**.
+  * **Record** in a record template, account template, role template, or organizational unit template.
+  * **User task** on a process diagram.
+  * **Process** — process template or process instance.
+  * **Account** — a record in an account template.
   * **Diagram** — a process diagram.
 * **Operation** — available operation set depends on the selected **operation context**. The following operations are provided:
-  * **C# Script** — execute a C# script.
+  * **C# script** — execute C# code configured on the [**Script** tab](buttons.md#script).
   * **Start process** — launch a process instance from the current record or a new record.
   * **Stop process** — stop the current process instance.
   * **Start process from linked template** — launch the process from a record template linked to the current template.

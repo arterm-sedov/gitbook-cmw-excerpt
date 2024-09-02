@@ -41,8 +41,8 @@ If you **delete an adapter**, connections and communication routes generated for
     * Single solution file (.sln) in the archive's root folder.
 
     <figure><img src=".gitbook/assets/adapter_archive_content" alt="Adapter source code archive contents example"><figcaption><p>Adapter source code archive contents example</p></figcaption></figure>
-5. Click **Save**.
-6. Click **Publish** to compile the adapter.
+5. **Save** the adapter.
+6. **Publish** the adapter to compile it.
 7. Upon successful compilation, the adapter name appears in the adapter list and adapter properties.
 8. An item for the compiled adapter appears in the **Create** — **Custom connections** menu on the **Connections** and **Communication routes** page.
 9. After compilation, view the **compilation log**.
@@ -62,7 +62,7 @@ After you publish the adapter and use its connection and communication routes, y
 
 ### Use the Adapter
 
-An item for the compiled adapter appears in the **Create**→**Custom connections** menu on the **Connections** and **Communication routes** page.
+An item for the compiled adapter appears in the **Create** — **Custom connections** menu on the **Connections** and **Communication routes** page.
 
 1. Create and configure a connection for your adapter.
 2. Create and configure a communication route using your adapter connection.
@@ -71,10 +71,3 @@ An item for the compiled adapter appears in the **Create**→**Custom connection
 <figure><img src=".gitbook/assets/2023-07-16_00h52_56.png" alt="Creating a connection using a custom adapter"><figcaption><p>Creating a connection using a custom adapter</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/2023-07-16_00h53_39.png" alt="Creating a communication route using a custom adapter"><figcaption><p>Creating a communication route using a custom adapter</p></figcaption></figure>
-
-### Delete an Adapter
-
-1. Open the [adapter list](broken-reference/).
-2. Check the box in the first column for the adapter to be deleted.
-3. Click **Delete**.
-4. In the confirmation window, click **Delete**.
