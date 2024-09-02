@@ -14,10 +14,10 @@ The list of buttons is provided for all template types.
 2. Go to the **Buttons** tab.
 3. The list of buttons in the template opens.
 4. Perform the following operations:
-   * **Select** — select a checkbox in the first column to select a button.
+   * **Select** — to choose a button, select a checkbox in the first column.
    * **Open** — double-click a button row to [configure ](buttons.md#opening-the-button-designer)the existing button.
    * **Create** — [configure ](buttons.md#opening-the-button-designer)a new button.
-   * **Delete** — selecte a button and click **Delete**. Confirm the button deletion.
+   * **Delete** — select a button and click **Delete**. Confirm the button deletion.
    * **Search** — click <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> and enter keywords in the **Search** field. The rows containing the keywords will be shown.
 
 <figure><img src=".gitbook/assets/button_list (1)" alt="Template button list"><figcaption><p>Template button list</p></figcaption></figure>
