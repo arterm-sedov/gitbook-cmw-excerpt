@@ -24,7 +24,7 @@ If you **delete an adapter**, connections and communication routes generated for
 
 <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="Adapter list"><figcaption><p>Adapter list</p></figcaption></figure>
 
-## Configure an Adatpter
+## Configure an Adapter
 
 1. Open the [adapter list](adapters.md#use-the-adapter-list).
 2. Click **Create** or double-click an adapter in the list.
@@ -34,16 +34,16 @@ If you **delete an adapter**, connections and communication routes generated for
 4.  Upload a ZIP archive with the adapter source code in the **Adapter source code** field.\
     The archive must contain the Visual Studio solution:
 
-    * Project with adapter source code.
+    * Project with the adapter source code.
     * Projects containing the interfaces for the development and subsequent compilation of the adapter.
-    * Necessary additional projects for the adapter, for example, a localization project.
+    * Any additional projects needed for the adapter, e.g., a localization project.
     * Folder with the connected libraries.
-    * Single solution file (.sln) in the archive's root folder.
+    * A solution file (.sln) in the archive's root folder.
 
     <figure><img src=".gitbook/assets/adapter_archive_content" alt="Adapter source code archive contents example"><figcaption><p>Adapter source code archive contents example</p></figcaption></figure>
 5. **Save** the adapter.
 6. **Publish** the adapter to compile it.
-7. Upon successful compilation, the adapter name appears in the adapter list and adapter properties.
+7. Upon successful compilation, the adapter name appears in the adapter list and on the adapter properties page.
 8. An item for the compiled adapter appears in the **Create** — **Custom connections** menu on the **Connections** and **Communication routes** page.
 9. After compilation, view the **compilation log**.
 10. To [use the adapter](adapters.md#use-the-adapter), create a connection and communication routes for it.
