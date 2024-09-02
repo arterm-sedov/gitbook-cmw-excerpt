@@ -3,7 +3,7 @@
 {% hint style="success" %}
 **Definition**
 
-A button is an element on a [form](forms.md) or in a table that performs a configured action on a click.
+A button is an element on a [form](forms.md) or table that performs a configured action on a click.
 {% endhint %}
 
 ## Use the Template's Button List
@@ -24,7 +24,7 @@ The list of buttons is provided for all template types.
 
 ## Configure the Button <a href="#opening-the-button-designer" id="opening-the-button-designer"></a>
 
-Use the button designer to configure the button appearance, behavior, and operation.
+Use the button designer to configure the button's appearance, behavior, and operation.
 
 1. Open the template's [button list](buttons.md#use-the-templates-button-list).
 2. Click **Create** or double-click a button in the list.
@@ -52,7 +52,7 @@ On the **Properties** tab, configure the general button settings.
   * **Process** — process template or process instance.
   * **Account** — a record in an account template.
   * **Diagram** — a process diagram.
-* **Operation** — available operation set depends on the selected **operation context**. The following operations are provided:
+* **Operation** — the available operation set depends on the selected **operation context**. The following operations are provided:
   * **C# script** — execute C# code configured on the [**Script** tab](buttons.md#script).
   * **Start process** — launch a process instance from the current record or a new record.
   * **Stop process** — stop the current process instance.
@@ -77,19 +77,19 @@ On the **Properties** tab, configure the general button settings.
   * **Edit** — configure the process diagram.
 
 {% hint style="info" %}
-Operations are executed on **records** in the **record**, **account**, **role**, and **organizational unit** **templates**, as well as on **process instances** in the **process templates**.
+**Operations** are executed on **records** in the record, account, role, and organizational unit templates, as well as on **process instances** in the process templates.
 {% endhint %}
 
-* **Save the record after execution** — check this checkbox to save the current record upon the button click operation execution.
+* **Save the record after execution** — check this checkbox to save the current record upon the button **operation** execution.
 * **Skip validation** — if you check this checkbox, data validation won't be performed when entering and saving record data and validation errors won't be displayed.
-* **Operation result** — select an action to perform upon the operation execution.
+* **Operation result** — select an action to perform upon the **operation** execution.
   * **Refresh data** — reload the record data.
   * **Navigation** — go to an object specified in the **Navigate to** field:
-    * **Related record** — go to a record linked with the process instance.
-    * **Process instance** — go to a process instance.
-    * **Started process task** — go to the current task of the process instance.
-    * **Next task in the list** — go to the next task of the process instance.
-    * **Previous page** — go to the current table previous page.
+    * **Related record** — go to a record linked to the process instance.
+    * **Process instance** — go to a process instance associated with the **operation context**.
+    * **Started process task** — go to the current user task of the process instance.
+    * **Next task in the list** — go to the next user task of the process instance.
+    * **Previous page** — go to the current table's previous page.
     * **Diagram** — go to the process instance diagram.
     * **Table** — go to a table listing template records or process instances.
   * **Download document** — save the file generated using an export template.
@@ -97,11 +97,11 @@ Operations are executed on **records** in the **record**, **account**, **role**,
   * **Read** — on the button click the form will become read-only.
   * **Edit** — after clicking the button the user will be able to enter data into the form (subject to the appropriate permissions).
   * **No change** — use the original form access mode.
-* **Show the button** — use this dropdown together with the **Set form access mode** dropdown.
-  * **In edit mode** — the button will be displayed only in the form data entry mode.
-  * **In read mode** — the button will be displayed only in the form read-only mode.
-  * **Always** — the button will be displayed in data entry and read-only modes.
-* **Show the dialog** — if you check this checkbox, clicking the button will open the operation confirmation dialogue you configure.
+* **Show the button** — use this dropdown along with the **Set form access mode** dropdown.
+  * **In edit mode** — the button will be displayed only when data entry in the form is allowed.
+  * **In read mode** — the button will be displayed only when the form is read-only.
+  * **Always** — the button will be displayed both in data entry and read-only modes.
+* **Show the dialog** — if you check this checkbox, clicking the button will open the operation confirmation dialogue you configure:
   * **Configure the dialog** — go to the operation confirmation form designer. The element panel in this designer shows the operation **local variables** that you can drag and drop on the dialogue.
 
 ![Operation dialogue designer with a local variable](.gitbook/assets/button\_designer\_dialogue\_designer)

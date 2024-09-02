@@ -31,7 +31,7 @@ In the process template, the form list is not available, and the forms are creat
 
 ## Configure the Form
 
-Use the form designer to configure the form layout, properties, and elements.
+Use the form designer to configure the form's layout, properties, and elements.
 
 1. Open the template's [form list](forms.md#viewing-the-template-form-list).
 2. Click **Create** or double-click a form in the list.
