@@ -80,8 +80,8 @@ On the **Properties** tab, configure the general button settings.
 **Operations** are executed on **records** in the record, account, role, and organizational unit templates, as well as on **process instances** in the process templates.
 {% endhint %}
 
-* **Save the record after execution** — check this checkbox to save the current record upon the button **operation** execution.
-* **Skip validation** — if you check this checkbox, data validation won't be performed when entering and saving record data and validation errors won't be displayed.
+* **Save the record after execution** — select this checkbox to save the current record upon the button **operation** execution.
+* **Skip validation** — if you select this checkbox, data validation won't be performed when entering and saving record data and validation errors won't be displayed.
 * **Operation result** — select an action to perform upon the **operation** execution.
   * **Refresh data** — reload the record data.
   * **Navigation** — go to an object specified in the **Navigate to** field:
@@ -89,7 +89,7 @@ On the **Properties** tab, configure the general button settings.
     * **Process instance** — go to a process instance associated with the **operation context**.
     * **Started process task** — go to the current user task of the process instance.
     * **Next task in the list** — go to the next user task of the process instance.
-    * **Previous page** — go to the current table's previous page.
+    * **Previous page** — go to the current table's preceding page.
     * **Diagram** — go to the process instance diagram.
     * **Table** — go to a table listing template records or process instances.
   * **Download document** — save the file generated using an export template.
@@ -101,7 +101,7 @@ On the **Properties** tab, configure the general button settings.
   * **In edit mode** — the button will be displayed only when data entry in the form is allowed.
   * **In read mode** — the button will be displayed only when the form is read-only.
   * **Always** — the button will be displayed both in data entry and read-only modes.
-* **Show the dialog** — if you check this checkbox, clicking the button will open the operation confirmation dialogue you configure:
+* **Show the dialog** — if you select this checkbox, clicking the button will open the operation confirmation dialogue you configure:
   * **Configure the dialog** — go to the operation confirmation form designer. The element panel in this designer shows the operation **local variables** that you can drag and drop on the dialogue.
 
 ![Operation dialogue designer with a local variable](.gitbook/assets/button\_designer\_dialogue\_designer)
@@ -131,10 +131,10 @@ For each variable, you can set:
 * **Display name** — a relevant variable name.
 * **Data type** — variables have the same types as attributes.
 * **Display format** — variables have the same display formats as attributes.
-* **System name** — a unique variable name for use in scripts, expressions, and scenarios.
+* **System name** — a unique variable name to use in scripts, expressions, and scenarios.
 * **Description** — a relevant variable's purpose description.
-* **Template** — can be set for the following variable types: **Record**, **Account**, **Role**, and **Organizational Unitattribute\_organizational\_unit.md**.
-* **Store multiple values** — you can check this checkbox for the following variable types: **File** (see attribute types **Document**, **Image**), **Record**, **Account**, **Role**, and **Organizational Unit**.
+* **Template** — can be set for the following variable types: **Record**, **Account**, **Role**, and **Organizational unit**.
+* **Store multiple values** — you can select this checkbox for the following variable types: **File** (same as attribute types **Document** and **Image**), **Record**, **Account**, **Role**, and **Organizational unit**.
 
 ![Button Designer - Local Variables Tab](.gitbook/assets/button\_designer\_local\_variables)
 
