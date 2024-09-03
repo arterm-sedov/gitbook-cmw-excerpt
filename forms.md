@@ -124,7 +124,7 @@ A **button area** is provided for each form and area. Place any **buttons**, **b
 
 ## Configure the Form Rules <a href="#editing-the-form-rules" id="editing-the-form-rules"></a>
 
-1. In the designer, click the selector button next to the form title.
+1. In the form designer, click the selector button next to the form title.
 2. Select **Form rules** from the dropdown.
 3. The form rule designer opens.
 4. Edit the form rules.
